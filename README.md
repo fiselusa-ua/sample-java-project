@@ -1,4 +1,4 @@
-# newnew321 usage of pull command
+# removing my comment
 # Sample Java Project
 
 This is a reference for setting up a new Ant-based Java project. It
