@@ -1,4 +1,4 @@
-# local2
+#merged2
 # merged comment
 # Sample Java Project
 
